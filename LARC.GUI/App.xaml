@@ -8,8 +8,8 @@
             <ResourceDictionary.MergedDictionaries>
                 <ResourceDictionary Source="pack://application:,,,/dvsku.Wpf.Controls;component/Theme/Templates.xaml"/>
                 <ResourceDictionary Source="pack://application:,,,/dvsku.Wpf.Themes;component/Themes/Theme.Dark.xaml" />
-                <ResourceDictionary Source="/LARC.GUI;component/Resources/Themes/Dark.xaml"/>
-                <ResourceDictionary Source="/LARC.GUI;component/Resources/Styles/Default.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/LARC;component/Resources/Themes/Dark.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/LARC;component/Resources/Styles/Default.xaml"/>
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
     </Application.Resources>
